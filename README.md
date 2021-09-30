@@ -2,8 +2,14 @@
 test hello world repository
 
 ## About ourselves:
-Blaze - I love gaming
+Blaze:
+> I love gaming 🎮
 
-Savannah - Agreed ^
+Savannah:
+> Agreed ^ ❤️
 
-Casey- Me too
+Casey:
+> Me too 🕹️
+
+Vonesha:
+> same 👍
