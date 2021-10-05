@@ -13,3 +13,6 @@ Casey:
 
 Vonesha:
 > same 👍
+
+Kurtis:  
+> me too!! 😄
