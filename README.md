@@ -19,9 +19,9 @@ Kurtis:
 
 TEST #2
 
-####Unordered list
-*item 1
-*item 2
-*item 3
-  *sub item 1
-  *sub item 2
+#### Unordered list
+* item 1
+* item 2
+* item 3
+  * sub item 1
+  * sub item 2
